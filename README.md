@@ -7,7 +7,7 @@
   Soft skills : Teamwork, Communication.  skills, Problem solving, Adaptability, Leadership 
   AI Framework/Libraries: Pandas, Matlplotlib
 - ✨Connect with me in LinkedIn
-https://www.linkedin.com/in/kontu-saraswathi-bb7913281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+https://www.linkedin.com/in/kontu-saraswathi-bb7913281
 
 <!---
 Kontusaraswathi/Kontusaraswathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
